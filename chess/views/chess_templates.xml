@@ -1,6 +1,6 @@
 <odoo>
     <data>
-        <template name="Chess Page" id="chesspage" page="True">
+        <template name="Chess Page" id="chesspage" >
             <t t-call="website.layout">
                 <div class="oe_structure">
                     <div class="container">
@@ -319,7 +319,7 @@
                 </div>
             </t>
         </template>
-        <template name="Game Page" id="gamepage" page="True">
+        <template name="Game Page" id="gamepage" >
             <t t-call="website.layout">
                 <div class="conteiner">
                     <div class="chess-content">

@@ -10,12 +10,12 @@
                 <link
                     rel="stylesheet"
                     type="text/less"
-                    href="/chess/static/less/winmodal.less"
+                    href="/chess/static/css/winmodal.css"
                 />
                 <link
                     rel="stylesheet"
                     type="text/less"
-                    href="/chess/static/less/style.less"
+                    href="/chess/static/css/style.css"
                 />
                 <link
                     rel="stylesheet"
@@ -53,7 +53,7 @@
                     href="/chess/static/css/tournament.css"
                 />
                 <script type="text/javascript" src="/chess/static/lib/dm-modal.js" />
-                <script type="text/javascript" src="/bus/static/src/js/bus.js" />
+                <script type="text/javascript" src="/bus/static/src/js/longpolling_bus.js" />
                 <script type="text/javascript" src="/chess/static/lib/sweet-alert.js" />
                 <script type="text/javascript" src="/chess/static/lib/chess.js" />
                 <script type="text/javascript" src="/chess/static/lib/chessboard.js" />

@@ -19,5 +19,5 @@
         "views/tournament_templates.xml",
     ],
     "qweb": ["static/xml/*.xml"],
-    "installable": False,
+    "installable": True,
 }
